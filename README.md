@@ -1,2 +1,2 @@
 # asbi.hu
- asbi.hu tailwindwebsite
+ Tailwind static website for testing
