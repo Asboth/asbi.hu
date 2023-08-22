@@ -1,0 +1,6 @@
+{
+  "scripts":{
+  "dev":"npx tailwindcss -i ./src/tailwind.css -o ./docs/css/style.css --watch"
+},
+"private": true
+}
