@@ -564,5 +564,5 @@ video {
 }
 
 .radial-blue {
-  background: radial-gradient(lightyellow, skyblue);
+  background: radial-gradient(lightyellow, skyblue, lightgreen);
 }
