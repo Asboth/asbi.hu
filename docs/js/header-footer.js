@@ -1,4 +1,4 @@
-function headerContainer () {
+/*function headerContainer () {
 	with(document) {		 
 		 write("<div id='headerMain'>");		 
 			 write("<div class='logo'>Logo")
