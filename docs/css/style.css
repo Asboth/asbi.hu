@@ -16,7 +16,7 @@
   /* 2 */
   border-style: solid;
   /* 2 */
-  border-color: currentColor;
+  border-color: #e5e7eb;
   /* 2 */
 }
 
@@ -532,30 +532,6 @@ video {
   --tw-backdrop-opacity:  ;
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
-}
-
-.m-auto {
-  margin: auto;
-}
-
-.grid {
-  display: grid;
-}
-
-.h-52 {
-  height: 13rem;
-}
-
-.min-h-screen {
-  min-height: 100vh;
-}
-
-.w-52 {
-  width: 13rem;
-}
-
-.place-content-center {
-  place-content: center;
 }
 
 .radial-blue {
